@@ -1,4 +1,8 @@
-# add two number
+#taes two number 
+#then check it is string or number
+#if it is str then convert to the number then add the number
+#display the number
+
 two_digit_number=input("Enter number what you want to add")
 
 first_digit=two_digit_number[0]
