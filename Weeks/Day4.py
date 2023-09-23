@@ -6,7 +6,8 @@ isWinning=True
 
 print(f"your score is {score},your height is {height},you are winning is {isWinning}")
 
-#create a program using math and f-String that tell us how many days ,weeks,months we have left if we live until 90 year old ,
+#create a program using math and f-String that tell us how many days ,
+# weeks,months we have left if we live until 90 year old ,
 
 
 age=input("What is your current age?")
