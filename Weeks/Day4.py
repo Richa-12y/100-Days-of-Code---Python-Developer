@@ -8,6 +8,7 @@ print(f"your score is {score},your height is {height},you are winning is {isWinn
 
 #create a program using math and f-String that tell us how many days ,weeks,months we have left if we live until 90 year old ,
 
+
 age=input("What is your current age?")
 age_as_int=int(age)
 years_remaining=90-age_as_int
